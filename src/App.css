@@ -19,6 +19,8 @@
   position: relative;
   overflow: hidden;
 }
+
+/* -------=the navigation bar-----=------ */
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -54,6 +56,7 @@
   background: rgba(255, 255, 255, 0.3);
 }
 
+/* -------=banks heading-----=------ */
 h1 {
   color: var(--magenta);
 }
