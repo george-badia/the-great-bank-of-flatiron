@@ -18,6 +18,12 @@ function App() {
      <div className="search-bar">
         <SearchBox onSearch={handleSearch} />
       </div>
+      <div className="form-container">
+        <div className="video-background">
+          <video src="https://videos.pexels.com/video-files/5849610/5849610-hd_1920_1080_30fps.mp4" autoPlay muted loop />
+        </div>
+      
+      </div>
 
      <Footer/>
     </div>
