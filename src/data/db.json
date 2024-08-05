@@ -118,6 +118,13 @@
       "description": "lunch",
       "category": "Food",
       "amount": "123456"
+    },
+    {
+      "id": "d3ec",
+      "date": "2024-08-06",
+      "description": "lunch with niece",
+      "category": "Food",
+      "amount": "98"
     }
   ]
 }
