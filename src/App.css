@@ -80,7 +80,29 @@ h2 {
   border-radius: 10px;
   display: inline-block;
   box-shadow: 0 4px 10px var(--shadow-color);
+} 
+/* -------=SearchBox-----=------ */
+.search-bar {
+  max-width: 300px;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 25px;
+  display: block;
+  float: right;
+  background: var(--background-gradient);
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  position: relative;
+  z-index: 2;
 }
+
+.search-bar input[type="text"] {
+  width: calc(100% - 20px);
+  padding: 10px;
+  border: none;
+  border-radius: 15px;
+  outline: none;
+}
+
 
 /* -------=footer-----=------ */
 
