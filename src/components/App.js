@@ -11,14 +11,14 @@ function App() {
   const [searchQuery, setsearchQuery] = useState('');
 
   useEffect(function() {
-    fetch('http://localhost:8002/transactions')
+    fetch('http://localhost:8001/transactions')
       .then(response => response.json())
       .then(data => setTransactions(data))
       .catch(error => console.error('Error fetching transactions:', error));
   }, []);
   
   function addTransaction(newTransaction) {
-    fetch('http://localhost:8002/transactions', {
+    fetch('http://localhost:8001/transactions', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'

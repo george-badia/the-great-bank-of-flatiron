@@ -4,7 +4,7 @@ import '../App.css';
 function Navbar() {
   return (
     <nav className="navbar">
-      <div className="navbar-brand">FLAT-DAGO</div>
+      <div className="navbar-brand">FLAT-DANGO</div>
       <ul className="navbar-nav">
         <li className="nav-item"><a href="#home">Home</a></li>
         <li className="nav-item"><a href="#transactions">Transactions</a></li>

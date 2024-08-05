@@ -106,7 +106,7 @@ h2 {
 .form-container {
   position: relative;
   width: 100%;
-  height: 400px; /* Increased height to add space above and below the form */
+  height: 400px; 
   display: flex;
   align-items: center;
   justify-content: center;
