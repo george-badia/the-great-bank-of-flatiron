@@ -53,8 +53,7 @@ This React application displays a list of recent bank transactions. Users can ad
 
 This program is built with:-
 
-- JavaScript
-- HTML
+- React
 - CSS
 - Visual Studio Code environment.
 
