@@ -22,7 +22,7 @@ This React application displays a list of recent bank transactions. Users can ad
 ## Installation
 
 1. Open your terminal and navigate to the desired directory.
-2. Clone the repository from
+2. Clone the repository from https://github.com/george-badia/the-great-bank-of-flatiron
 3. Clone the repository using the SSH key.
 4. cd `the-great-bank-of-flatiron`
 5. Open the cloned repository in Visual Studio Code.
