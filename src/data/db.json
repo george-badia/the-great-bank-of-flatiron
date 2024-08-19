@@ -125,6 +125,41 @@
       "description": "lunch with niece",
       "category": "Food",
       "amount": "98"
+    },
+    {
+      "date": "2024-08-06",
+      "description": "Birthday gift for the younger niece Tamar",
+      "category": "Income",
+      "amount": "4568",
+      "id": "eoLnidq"
+    },
+    {
+      "date": "2024-08-06",
+      "description": "deep-spend",
+      "category": "Income",
+      "amount": "564",
+      "id": "neUMXgG"
+    },
+    {
+      "date": "2024-08-07",
+      "description": "deep-spend",
+      "category": "Entertainment",
+      "amount": "2781282",
+      "id": "sY6w0Rd"
+    },
+    {
+      "date": "2024-08-07",
+      "description": "discretionary",
+      "category": "Income",
+      "amount": "76589429",
+      "id": "fzYMtSM"
+    },
+    {
+      "date": "2024-08-06",
+      "description": "lunch with niece",
+      "category": "Food",
+      "amount": "500",
+      "id": "w6guIf0"
     }
   ]
 }
