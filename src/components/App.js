@@ -11,14 +11,14 @@ function App() {
   const [searchQuery, setsearchQuery] = useState('');
 
   useEffect(function() {
-    fetch('https://json-bank-flatiron.onrender.com')
+    fetch(https://json-bank-flatiron.onrender.com)
       .then(response => response.json())
       .then(data => setTransactions(data))
       .catch(error => console.error('Error fetching transactions:', error));
   }, []);
   
   function addTransaction(newTransaction) {
-    fetch('https://json-bank-flatiron.onrender.com', {
+    fetch(https://json-bank-flatiron.onrender.com, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
